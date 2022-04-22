@@ -1,8 +1,29 @@
 #  ASSIGNMENT 2 (WAI-ARIA CS730) 
 
-# Getting Started with Create React App
+***DESCRIPTION:***
 
-This project shows carousel of 7 images depicting seven wonders of the world with brief information of all the wonders 
+This project shows carousel of 7 images depicting seven wonders of the world with brief information on all the wonders 
+
+
+Author : Harpreet Singh Chahal
+
+Date of creation : 22/04/2022
+
+***GITHUB***
+
+- @HarpreetChahal
+- Repository : https://github.com/HarpreetChahal/wai-aria-CS-730
+
+***FILES OF THE PROGRAM:***
+
+- App.js         - this is the main file of the project
+- App.css        - this is the style sheet language file used for describing the presentation of a document
+- HeroSlider.js  - this contains the working of our project
+
+***OTHERS:***
+
+- /screenshots       - contain screenshots of the outputs on the console
+
 
 ## Available Scripts
 
