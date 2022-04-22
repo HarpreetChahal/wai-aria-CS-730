@@ -22,6 +22,12 @@ This project shows carousel of 7 images depicting seven wonders of the world wit
 
 - /screenshots   - contain screenshots of the outputs on the console
 
+##HOW TO INSTALL THE PROJECT:
+
+1. Download and extract the zip file
+2. User must have npm installed and other pre-requisties (react-bootstrap package + chocolatey + node)
+3. Run the project in VS Code with `npm start` command
+
 
 ## Available Scripts
 
