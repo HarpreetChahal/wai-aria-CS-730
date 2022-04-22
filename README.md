@@ -1,6 +1,8 @@
+#  ASSIGNMENT 2 (WAI-ARIA CS730) 
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project shows carusoel of 7 images depicting seven wonders of the world with brief information of all the wonders 
 
 ## Available Scripts
 
