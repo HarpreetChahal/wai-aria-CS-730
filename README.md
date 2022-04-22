@@ -2,7 +2,7 @@
 
 # Getting Started with Create React App
 
-This project shows carusoel of 7 images depicting seven wonders of the world with brief information of all the wonders 
+This project shows carousel of 7 images depicting seven wonders of the world with brief information of all the wonders 
 
 ## Available Scripts
 
